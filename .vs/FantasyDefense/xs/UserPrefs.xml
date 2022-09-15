@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{0B41C378-C87A-082D-7F08-AF4505DCCB8A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7fbe6dd3-fc90-4747-b813-6fe14a860f3a" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/CoordinateLabeler.cs">
+    <Files>
+      <File FileName="Assets/Script/CoordinateLabeler.cs" Line="35" Column="33" />
+      <File FileName="Assets/Script/EnemyMover.cs" Line="73" Column="1" />
+      <File FileName="Assets/Script/Waypoint.cs" Line="17" Column="36" />
+      <File FileName="Assets/Script/TargetLocator.cs" Line="31" Column="46" />
+      <File FileName="Assets/Script/EnemyHealth.cs" Line="6" Column="1" />
+      <File FileName="Assets/Script/ObjectPool.cs" Line="9" Column="32" />
+      <File FileName="Assets/Script/Bank.cs" Line="32" Column="25" />
+      <File FileName="Assets/Script/Enemy.cs" Line="5" Column="35" />
+      <File FileName="Assets/Script/Tower.cs" Line="17" Column="41" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FantasyDefense" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Script" expanded="True">
+                <Node name="CoordinateLabeler.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="Unity" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
